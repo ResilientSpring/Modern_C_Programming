@@ -11,5 +11,6 @@ int main() {
 
 	struct myStruct s = { 4, 3.4 };
 
-
+	printf("s.x = %d   ", s.x);
+	printf("s.y = %.11f", s.y);
 }
