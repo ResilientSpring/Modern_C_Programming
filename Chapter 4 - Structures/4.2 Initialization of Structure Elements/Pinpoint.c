@@ -13,4 +13,6 @@ int main() {
 
 	printf("s.x = %d   ", s.x);
 	printf("s.y = %.11f", s.y);
+
+	printf("\n");
 }
